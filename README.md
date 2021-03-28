@@ -1,4 +1,4 @@
-## Hey, I'm Christopher Klay ✌🏻
+## Hey there, I'm Chris ✌🏻
 
 ### 📈 My Stats on GitHub
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=christopherklay&show_icons=true)
