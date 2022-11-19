@@ -9,3 +9,5 @@
 
 ### ☕ Support my projects
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B079EUW)
+
+<a rel="me" href="https://mastodon.social/@confirmare">Mastodon</a>
